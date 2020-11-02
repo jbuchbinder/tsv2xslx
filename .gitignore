@@ -1,3 +1,4 @@
 *.tsv
 *.xslx
 tsv2xslx
+go.sum
